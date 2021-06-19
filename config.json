@@ -1,0 +1,50 @@
+{
+    "rangeOfTower": 70,
+    "enemies": [
+        {
+            "name": "BotA",
+            "distance": 100,
+            "speed": 10
+        },
+        {
+            "name": "BotB",
+            "distance": 200,
+            "speed": 30
+        },
+        {
+            "name": "BotC",
+            "distance": 30,
+            "speed": 20
+        },
+        {
+            "name": "BotD",
+            "distance": 50,
+            "speed": 30
+        },
+        {
+            "name": "BotE",
+            "distance": 110,
+            "speed": 20
+        },
+        {
+            "name": "BotF",
+            "distance": 110,
+            "speed": 20
+        },
+        {
+            "name": "BotG",
+            "distance": 110,
+            "speed": 20
+        },
+        {
+            "name": "BotH",
+            "distance": 110,
+            "speed": 20
+        },
+        {
+            "name": "BotK",
+            "distance": 110,
+            "speed": 20
+        }
+    ]
+}
